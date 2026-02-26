@@ -1,9 +1,6 @@
-# basic-project-11
+# Simple Timer
 
-This is a basic project repository created automatically.
+This is a Simple Timer repository created for imabot2604.
 
-## How to run
-
-```bash
-python3 main.py
-```
+## File
+- `timer.py`
